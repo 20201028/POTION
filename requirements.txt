@@ -1,0 +1,5 @@
+# POTION 运行依赖（CUDA 版 PyTorch 请按官网命令单独安装）
+torch>=2.1
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.3
